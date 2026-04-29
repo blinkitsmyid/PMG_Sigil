@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 
 public class CutsceneManager : MonoBehaviour
 {
-    [Header("Настройки катсцены")]
+    [Header("пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ")]
     [SerializeField] private Sprite[] cutsceneImages;
     [SerializeField] private Image displayImage;
     [SerializeField] private string nextSceneName;
@@ -22,7 +22,7 @@ public class CutsceneManager : MonoBehaviour
 
     void Update()
     {
-        // Проверяем клик через новый Input System
+        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ Input System
         if (Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
         {
             NextImage();
@@ -38,7 +38,7 @@ public class CutsceneManager : MonoBehaviour
         }
         else
         {
-            LoadNextScene();
+            SceneManager.LoadScene("00_Menu");
         }
     }
 
