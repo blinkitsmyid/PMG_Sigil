@@ -1972,6 +1972,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4864434032990649148}
   - component: {fileID: 8717196836998736371}
+  - component: {fileID: 8499320823196551693}
   m_Layer: 0
   m_Name: Bowls_img
   m_TagString: Untagged
@@ -2048,6 +2049,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8499320823196551693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1626054953387650676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e694fad65507b943acdd81aa88e3752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 3
+  spriteRenderer: {fileID: 8717196836998736371}
 --- !u!1 &1705027137518247818
 GameObject:
   m_ObjectHideFlags: 0
@@ -12719,6 +12734,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2957284793712586362}
   - component: {fileID: 3747387944057991546}
+  - component: {fileID: 395788729444782032}
   m_Layer: 0
   m_Name: Offerings_img
   m_TagString: Untagged
@@ -12795,6 +12811,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &395788729444782032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2791601094309195287}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e694fad65507b943acdd81aa88e3752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+  spriteRenderer: {fileID: 3747387944057991546}
 --- !u!1 &4247528032699132503
 GameObject:
   m_ObjectHideFlags: 0
@@ -14361,6 +14391,7 @@ GameObject:
   m_Component:
   - component: {fileID: 687401218978553902}
   - component: {fileID: 5051334298592565856}
+  - component: {fileID: 5190888040498536517}
   m_Layer: 0
   m_Name: pentagram_img
   m_TagString: Untagged
@@ -14437,6 +14468,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &5190888040498536517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8308796257881531073}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e694fad65507b943acdd81aa88e3752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 0
+  spriteRenderer: {fileID: 5051334298592565856}
 --- !u!1 &9111540724934950001
 GameObject:
   m_ObjectHideFlags: 0
