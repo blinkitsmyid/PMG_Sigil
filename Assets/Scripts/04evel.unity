@@ -296,6 +296,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 1187306769}
+    - target: {fileID: 1088968971750516031, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1116358024468388261, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.41
@@ -608,6 +612,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FlashingLamp2
       objectReference: {fileID: 0}
+    - target: {fileID: 8085035182320917593, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8446025055086564608, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
       propertyPath: orderWhenAbove
       value: 2
@@ -625,7 +633,9 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 7605072921934911652, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
+    - {fileID: 8085035182320917593, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
@@ -638,17 +648,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &689075413 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 175380986674620879, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
-  m_PrefabInstance: {fileID: 556879039}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08f56a5270fd423681e738a32d1d507f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &706838935 stripped
@@ -3339,7 +3338,7 @@ PrefabInstance:
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: 'traitObjects.Array.data[0]'
       value: 
-      objectReference: {fileID: 689075413}
+      objectReference: {fileID: 7922098864263144475}
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: 'traitObjects.Array.data[1]'
       value: 
@@ -3385,6 +3384,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
+--- !u!114 &7922098864263144475 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4423692301838543411, guid: a0a9fde6463d6f741a3b4949c9feda38, type: 3}
+  m_PrefabInstance: {fileID: 556879039}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f56a5270fd423681e738a32d1d507f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &8007193600604132841
 PrefabInstance:
   m_ObjectHideFlags: 0
