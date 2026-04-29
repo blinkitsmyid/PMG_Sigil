@@ -377,7 +377,8 @@ MonoBehaviour:
   footstepAudio: {fileID: 0}
   stepInterval: 0.5
   movingSpeed: 10
-  LoseSpawnPoint: {fileID: 0}
+  EndSpawnPoint: {fileID: 0}
+  StartSpawnPoint: {fileID: 0}
   _isAlive: 1
   runMultiplier: 2
   playerSprite: {fileID: 6022063579184218212}

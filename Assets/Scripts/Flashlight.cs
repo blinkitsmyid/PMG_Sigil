@@ -7,7 +7,7 @@ using UnityEngine.Rendering.Universal;
 public class Flashlight : MonoBehaviour
 {
     [SerializeField] private Light2D flashlight;
-
+    
     void Start()
     {
         GameInput.Instance.OnFlashlightToggle += GameInput_OnFlashlightToggle;
