@@ -211,6 +211,10 @@ public class PanelManager : MonoBehaviour
         
     }
 
+    public void StopTimer()
+    {
+        StopCoroutine(timerCoroutine);
+    }
     // 🏆 WIN
     public void Win()
     {

@@ -34,7 +34,7 @@ public class GhostBehaviour : MonoBehaviour
     {
         if (isDead) return;
         spriteRenderer.enabled = true;
-        
+        PanelManager.Instance.StopTimer();
         if (type == config.correctExorcism)
         {
             GhostManager.Instance.ActivateWinExorcismObject(config);
