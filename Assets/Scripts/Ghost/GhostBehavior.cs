@@ -34,21 +34,23 @@ public class GhostBehaviour : MonoBehaviour
     {
         if (isDead) return;
         spriteRenderer.enabled = true;
-        GhostManager.Instance.ActivateExorcismObject(config);
+        
         if (type == config.correctExorcism)
         {
+            GhostManager.Instance.ActivateWinExorcismObject(config);
             WinManager.Instance.WinLevel();
             Debug.Log("Правильно! Призрак уничтожается");
             StartCoroutine(FadeAndDie());
         }
         else
         {
+            GhostManager.Instance.ActivateLoseExorcismObject(type);
             LoseManager.Instance.LoseLevel();
             Debug.Log(type);
             //GamesManager.Instance.LoseGame(); // или твой метод
         }
     }
- 
+    
     private IEnumerator FadeAndDie()
     {
         Debug.Log("FADE START");

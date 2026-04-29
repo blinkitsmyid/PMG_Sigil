@@ -73,7 +73,7 @@ public class GhostManager : MonoBehaviour
         }
         
     }
-    public void ActivateExorcismObject(GhostConfig config)
+    public void ActivateWinExorcismObject(GhostConfig config)
     {
         foreach (var obj in exorcismObjects)
         {
@@ -83,6 +83,18 @@ public class GhostManager : MonoBehaviour
             obj.gameObject.SetActive(shouldBeActive);
 
             Debug.Log(obj.gameObject.name + " EXORCISM: " + obj.type);
+        }
+    }
+    public void ActivateLoseExorcismObject(ExorcismType type)
+    {
+        foreach (var obj in exorcismObjects)
+        {
+            if (obj == null) continue;
+
+            bool shouldBeActive = obj.type == type;
+            obj.gameObject.SetActive(shouldBeActive);
+
+            Debug.Log($"EXORCISM: {obj.gameObject.name} | type: {obj.type} | active: {shouldBeActive}");
         }
     }
     private IEnumerator CheckActive(GameObject go)
