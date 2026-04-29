@@ -17837,6 +17837,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -270.25
       objectReference: {fileID: 0}
+    - target: {fileID: 4221732322204282736, guid: 99b9848d276938447adcb68c5dfec80a, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4221732322204282736, guid: 99b9848d276938447adcb68c5dfec80a, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6184184302752728044, guid: 99b9848d276938447adcb68c5dfec80a, type: 3}
       propertyPath: m_Name
       value: Steps
@@ -17998,6 +18006,10 @@ PrefabInstance:
     - target: {fileID: 3734016322607194089, guid: aca7dd9a043adf34f930c2b98b581445, type: 3}
       propertyPath: m_Name
       value: FlashingLamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3734016322607194089, guid: aca7dd9a043adf34f930c2b98b581445, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5520336806548953621, guid: aca7dd9a043adf34f930c2b98b581445, type: 3}
       propertyPath: m_LocalPosition.x
