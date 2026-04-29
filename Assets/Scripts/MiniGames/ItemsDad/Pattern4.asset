@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468ee6a85a1d76044af6221decb14009, type: 3}
+  m_Name: Pattern4
+  m_EditorClassIdentifier: 
+  patternID: 3
+  patternName: Forth
+  assignments:
+  - itemType: 4
+    slotIndex: 0
+    slotSprite: {fileID: 1093959908753050769, guid: 1154e7ee7c5b81145abee774d5b3eb82, type: 3}
+  - itemType: 5
+    slotIndex: 1
+    slotSprite: {fileID: 5288015648137019467, guid: 434cbb06354446d488f10d7714c7a6ad, type: 3}
+  - itemType: 3
+    slotIndex: 2
+    slotSprite: {fileID: 3378063992593278918, guid: 09d62ae600b2d694c82a4aa100508b01, type: 3}
+  - itemType: 1
+    slotIndex: 3
+    slotSprite: {fileID: -4724706410104015297, guid: 57e2a4eea8e7a424ea8634e19bf449ba, type: 3}
+  - itemType: 2
+    slotIndex: 4
+    slotSprite: {fileID: -8181144711952423110, guid: be9b14b77c58a604a84e5773a2a8fc3d, type: 3}
+  availableItems: 

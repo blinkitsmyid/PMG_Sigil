@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: a857839081d721345adb5104cf3452ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9118173304602908679
+    second: steps animation_0
+  - first:
+      213: 2083799503170629408
+    second: steps animation_1
+  - first:
+      213: -8525054123003287082
+    second: steps animation_2
+  - first:
+      213: 6625542698859139953
+    second: steps animation_3
+  - first:
+      213: 1685404998236826946
+    second: steps animation_4
+  - first:
+      213: -376238906129158710
+    second: steps animation_5
+  - first:
+      213: 178601322096185090
+    second: steps animation_6
+  - first:
+      213: -8606386894210001621
+    second: steps animation_7
+  - first:
+      213: 7845068623343750879
+    second: steps animation_8
+  - first:
+      213: 6463578268218033509
+    second: steps animation_9
+  - first:
+      213: 6669710116804203944
+    second: steps animation_10
+  - first:
+      213: -853178366367312710
+    second: steps animation_11
+  - first:
+      213: -7211610937877222042
+    second: steps animation_12
+  - first:
+      213: -4797033458166236701
+    second: steps animation_13
+  - first:
+      213: -5935183912529863973
+    second: steps animation_14
+  - first:
+      213: -4198161379575866872
+    second: steps animation_15
+  - first:
+      213: 3951558166237798280
+    second: steps animation_16
+  - first:
+      213: 6595935978968814408
+    second: steps animation_17
+  - first:
+      213: -9209232186945809489
+    second: steps animation_18
+  - first:
+      213: -6284881230999281795
+    second: steps animation_19
+  - first:
+      213: 4319910040545530001
+    second: steps animation_20
+  - first:
+      213: -4926988399583635723
+    second: steps animation_21
+  - first:
+      213: 4732943927788072788
+    second: steps animation_22
+  - first:
+      213: 8856865383357303894
+    second: steps animation_23
+  - first:
+      213: 3449323990670504326
+    second: steps animation_24
+  - first:
+      213: 580823357281668263
+    second: steps animation_25
+  - first:
+      213: 2317497332365220625
+    second: steps animation_26
+  - first:
+      213: -125739178600931843
+    second: steps animation_27
+  - first:
+      213: 8993979084168883944
+    second: steps animation_28
+  - first:
+      213: -1813660895567796590
+    second: steps animation_29
+  - first:
+      213: -7843150071624448073
+    second: steps animation_30
+  - first:
+      213: 7550553916066157871
+    second: steps animation_31
+  - first:
+      213: -6235304314966778543
+    second: steps animation_32
+  - first:
+      213: 5585967711968688516
+    second: steps animation_33
+  - first:
+      213: -1312390405162519299
+    second: steps animation_34
+  - first:
+      213: 4126599320932250574
+    second: steps animation_35
+  - first:
+      213: -7051578085559557856
+    second: steps animation_36
+  - first:
+      213: 1762079351686983714
+    second: steps animation_37
+  - first:
+      213: -1768321638103309361
+    second: steps animation_38
+  - first:
+      213: 4711334830383140299
+    second: steps animation_39
+  - first:
+      213: -8196540221695468299
+    second: steps animation_40
+  - first:
+      213: -4514291045701751884
+    second: steps animation_41
+  - first:
+      213: -5123441532404031060
+    second: steps animation_42
+  - first:
+      213: 3435843084891414903
+    second: steps animation_43
+  - first:
+      213: 4960694236888990318
+    second: steps animation_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: steps animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7085e457f424a8e70800000000000000
+      internalID: 9118173304602908679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steps animation_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fee919b942bec10800000000000000
+      internalID: 2083799503170629408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steps animation_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9e86b517ce0b980800000000000000
+      internalID: -8525054123003287082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steps animation_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1739ea12bf7a2fb50800000000000000
+      internalID: 6625542698859139953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steps animation_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24de29e8ae2c36710800000000000000
+      internalID: 1685404998236826946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steps animation_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd6d7155b457caf0800000000000000
+      internalID: -376238906129158710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steps animation_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f45f7c4f48a7200800000000000000
+      internalID: 178601322096185090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steps animation_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b251903e7b8ff8880800000000000000
+      internalID: -8606386894210001621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steps animation_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde87f419584fdc60800000000000000
+      internalID: 7845068623343750879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 068ba70801921094b8c28c179a09f6ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      steps animation_0: 9118173304602908679
+      steps animation_1: 2083799503170629408
+      steps animation_2: -8525054123003287082
+      steps animation_3: 6625542698859139953
+      steps animation_4: 1685404998236826946
+      steps animation_5: -376238906129158710
+      steps animation_6: 178601322096185090
+      steps animation_7: -8606386894210001621
+      steps animation_8: 7845068623343750879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
