@@ -16,7 +16,19 @@ EditorBuildSettings:
     guid: 2815350d77fc1d946a56a1f334069cf7
   - enabled: 1
     path: Assets/Scripts/02level.unity
-    guid: 5222897bfd7341e40a39022906775717
+    guid: 38392c7a99ad3bf44a41d8cf52499a98
+  - enabled: 1
+    path: Assets/Scripts/03level.unity
+    guid: b8645cf417f17a4438871114f78725d9
+  - enabled: 1
+    path: Assets/Scripts/04evel.unity
+    guid: e89bf5cacb494304087f90d6256cfa9d
+  - enabled: 1
+    path: Assets/Scripts/05level.unity
+    guid: 5f17d1f1d3b656f4898efb489d0c2244
+  - enabled: 1
+    path: Assets/Scripts/06level.unity
+    guid: 32c17d15dbbebc746aef6038d872c890
   - enabled: 1
     path: Assets/Scenes/CodeTest.unity
     guid: d6392a63882b2e7418c15c6a5bb95ed7

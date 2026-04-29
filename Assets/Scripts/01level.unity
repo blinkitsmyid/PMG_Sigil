@@ -806,6 +806,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 1187306769}
+    - target: {fileID: 3205076459779003904, guid: c41c12854f1492244b6b15f1810d130a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.09
+      objectReference: {fileID: 0}
     - target: {fileID: 3678581729989779559, guid: c41c12854f1492244b6b15f1810d130a, type: 3}
       propertyPath: m_SortingLayer
       value: 0
@@ -997,6 +1001,10 @@ PrefabInstance:
     - target: {fileID: 8861961117602171832, guid: c41c12854f1492244b6b15f1810d130a, type: 3}
       propertyPath: m_SpriteSortPoint
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178363358808736354, guid: c41c12854f1492244b6b15f1810d130a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.89
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1603,6 +1611,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 805683903}
     m_Modifications:
+    - target: {fileID: 626342115844802223, guid: 4ba45ac4b3a0e434aba9452691e03e93, type: 3}
+      propertyPath: currentState
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 921239046603045995, guid: 4ba45ac4b3a0e434aba9452691e03e93, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5
@@ -1759,6 +1771,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5546996929555503811, guid: 4ba45ac4b3a0e434aba9452691e03e93, type: 3}
+      propertyPath: currentState
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7586429532382063514, guid: 4ba45ac4b3a0e434aba9452691e03e93, type: 3}
       propertyPath: m_LocalPosition.x
       value: -312
@@ -1910,6 +1926,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4828575902068116105, guid: 4edafd8a17a39e2409d4e20355ab4996, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6860589525226572714, guid: 7e3c2caa38d48ac4dbd7c8644519c86f, type: 3}
     - target: {fileID: 5021715713919488830, guid: 4edafd8a17a39e2409d4e20355ab4996, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2143,6 +2163,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: LoadMenu
       objectReference: {fileID: 0}
+    - target: {fileID: 6692423697904755974, guid: 38b50c31b16efb340a3beb6e284f1a3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6860589525226572714, guid: 7e3c2caa38d48ac4dbd7c8644519c86f, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 447747213401583835, guid: 38b50c31b16efb340a3beb6e284f1a3e, type: 3}
