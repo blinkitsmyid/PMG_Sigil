@@ -257,6 +257,14 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 619040395774719443, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 619040395774719443, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 747664459026562916, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
@@ -277,6 +285,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 1626054953387650676, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1868548212678762824, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
@@ -293,6 +305,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 2791601094309195287, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2976884627321691030, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
@@ -305,10 +321,22 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 3747387944057991546, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3747387944057991546, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3927400108970413818, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 4067251479853824331, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4354395890246147842, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
@@ -317,6 +345,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 4803137354861265181, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 4938633191926632906, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.55
@@ -361,6 +393,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 4993666980399812963, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5001513612951780258, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
@@ -369,6 +405,14 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 5051334298592565856, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5051334298592565856, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5129374386274186742, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
@@ -389,6 +433,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 6848791148821519126, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.5
+      objectReference: {fileID: 0}
     - target: {fileID: 7210516286175163024, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
@@ -405,6 +453,14 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 7745737142565104746, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 7745737142565104746, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 7797050693429099750, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
@@ -417,6 +473,30 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 8308796257881531073, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421812866921244626, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.34593
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421812866921244626, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.34593
+      objectReference: {fileID: 0}
+    - target: {fileID: 8421812866921244626, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.34593
+      objectReference: {fileID: 0}
+    - target: {fileID: 8717196836998736371, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8717196836998736371, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9009738476734996552, guid: ec148cc5999c30f4682b8b588b539071, type: 3}
       propertyPath: playerCollider
       value: 
