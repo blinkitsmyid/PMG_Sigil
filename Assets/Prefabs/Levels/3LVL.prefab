@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8823030053533389241}
   - component: {fileID: 7232115148081664504}
+  - component: {fileID: 5093892575376782923}
   m_Layer: 0
   m_Name: pentagram_img
   m_TagString: Untagged
@@ -86,6 +87,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &5093892575376782923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 73820784875466580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e694fad65507b943acdd81aa88e3752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 0
+  spriteRenderer: {fileID: 0}
 --- !u!1 &81305489979348643
 GameObject:
   m_ObjectHideFlags: 0
@@ -21995,6 +22010,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8696699627134607573}
   - component: {fileID: 3512881260848400030}
+  - component: {fileID: 6470751772391163901}
   m_Layer: 0
   m_Name: Bowls_img
   m_TagString: Untagged
@@ -22071,6 +22087,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &6470751772391163901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7332310121373482613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e694fad65507b943acdd81aa88e3752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 3
+  spriteRenderer: {fileID: 0}
 --- !u!1 &8439847684203167097
 GameObject:
   m_ObjectHideFlags: 0
@@ -22081,6 +22111,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1526883125568104978}
   - component: {fileID: 2213499075872404980}
+  - component: {fileID: 1292960558174322291}
   m_Layer: 0
   m_Name: Offerings_img
   m_TagString: Untagged
@@ -22157,6 +22188,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1292960558174322291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8439847684203167097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e694fad65507b943acdd81aa88e3752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+  spriteRenderer: {fileID: 0}
 --- !u!1001 &320407201066811081
 PrefabInstance:
   m_ObjectHideFlags: 0
