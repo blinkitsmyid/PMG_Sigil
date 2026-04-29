@@ -62,7 +62,7 @@ public class GhostBehaviour : MonoBehaviour
         }
 
         isDead = true;
-        
+        AudioManager.Instance.PlayExorcismWinSound();
         Color startColor = spriteRenderer.color;
         float time = 0f;
         yield return new WaitForSecondsRealtime(4f);

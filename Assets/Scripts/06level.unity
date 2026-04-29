@@ -423,6 +423,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 1187306769}
+    - target: {fileID: 3490625540596141656, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3774847848790853064, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
       propertyPath: playerCollider
       value: 
@@ -643,6 +647,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 1187306769}
+    - target: {fileID: 7880290480924814710, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7957713891816286776, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
       propertyPath: playerCollider
       value: 
@@ -679,6 +687,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 1187306769}
+    - target: {fileID: 8943712103439632194, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9074196245489646652, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
       propertyPath: m_SortingLayer
       value: 0
@@ -732,7 +744,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4859052425269986004, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
@@ -917,17 +930,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3949564931286429097, guid: b88868faace08634b992854fae1e1070, type: 3}
   m_PrefabInstance: {fileID: 2146245857}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1070609254 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2921538720634090431, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
-  m_PrefabInstance: {fileID: 419089077}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08f56a5270fd423681e738a32d1d507f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!70 &1187306769 stripped
 CapsuleCollider2D:
   m_CorrespondingSourceObject: {fileID: 8501938764593227728, guid: 932fe5d9ddcb840458e359d6aad40d0d, type: 3}
@@ -3268,6 +3270,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 781445a270b040cdad9129d211f80876, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &7268026759075026156 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1310655053257383546, guid: 6d7535f152ac7da469559e03aee23800, type: 3}
+  m_PrefabInstance: {fileID: 419089077}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f56a5270fd423681e738a32d1d507f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &7366139354313489338 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5632623223768273311, guid: 22f2be3583322d0438d1ef16bd1a5b62, type: 3}
@@ -3470,7 +3483,7 @@ PrefabInstance:
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: 'traitObjects.Array.data[0]'
       value: 
-      objectReference: {fileID: 1070609254}
+      objectReference: {fileID: 7268026759075026156}
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: 'traitObjects.Array.data[1]'
       value: 
@@ -3482,7 +3495,7 @@ PrefabInstance:
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: 'traitObjects.Array.data[3]'
       value: 
-      objectReference: {fileID: 1070609254}
+      objectReference: {fileID: 0}
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: 'traitObjects.Array.data[4]'
       value: 

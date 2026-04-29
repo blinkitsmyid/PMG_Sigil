@@ -23,7 +23,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip wrong_position_sound; //+
     public AudioClip smoke_sound; //+
     public AudioClip winBowlsSound;
-
+    public AudioClip exorcismWinSound;
 
     [Header("SFX")]
     public AudioClip walkSound;
@@ -95,7 +95,7 @@ public class AudioManager : MonoBehaviour
     public void PlayWin() => PlaySFX(winSound);
     public void PlayLose() => PlaySFX(loseSound);
     public void PlayWinBowlsSound() => PlaySFX(winBowlsSound);
-
+    public void PlayExorcismWinSound() => PlaySFX(exorcismWinSound);
 
     public void PlayPageSound() => PlaySFX(pageSound); //+
     public void PlayCandleOn_Sound() => PlaySFX (candle_on_sound); //+
