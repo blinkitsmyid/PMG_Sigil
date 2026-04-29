@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08f56a5270fd423681e738a32d1d507f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trait: 6
+  trait: 7
 --- !u!95 &3236532492704770895
 Animator:
   serializedVersion: 7
