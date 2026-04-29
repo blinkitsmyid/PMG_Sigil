@@ -439,7 +439,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f11811cc7f1440afdf835f7d64582, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cutsceneImages: []
+  cutsceneImages:
+  - {fileID: -8559334776203373811, guid: a256e3c51b5d1a949a86e3f15ca10937, type: 3}
+  - {fileID: -382136572903878482, guid: 5320dde2292761e42973e941579adc6c, type: 3}
+  - {fileID: 4912292927426644179, guid: 5a9ba19d7d79d9e48a0012086870293c, type: 3}
+  - {fileID: 6818929103908926799, guid: de7bcb16952bb3a4f86520603403406f, type: 3}
+  - {fileID: -7367425066732777398, guid: df4edf7bfad357f408655cae025af341, type: 3}
+  - {fileID: -8968252729364277198, guid: 7dbe49e1221fa0246bb6ddc5800561dd, type: 3}
+  - {fileID: 3010396914551413619, guid: 6632758414ec670408950e38ac4d6ef5, type: 3}
+  - {fileID: -4484316231098900953, guid: 2eede4157666f4f43ad1c85fc1ceec5b, type: 3}
+  - {fileID: 8958447733848869455, guid: 88d73fbea8673394db32f9d0224e98fd, type: 3}
+  - {fileID: -7280038010241225553, guid: fb8025c62a5c8744c935761f960f5889, type: 3}
+  - {fileID: -4457002221413813400, guid: dd941dafc3e763e44bcad390ce27b11a, type: 3}
   displayImage: {fileID: 2070883833}
   nextSceneName: 00_Menu
 --- !u!1 &2070883832
@@ -473,7 +484,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.42767292, g: 0.3644634, b: 0.3644634, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
