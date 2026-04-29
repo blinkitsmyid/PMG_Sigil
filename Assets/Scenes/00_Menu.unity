@@ -1161,7 +1161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78ed4b8c9b51f4d4e8788a6eea271f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelSceneIndexes: 010000000200000003000000040000000500000006000000
+  levelSceneIndexes: 0100000002000000030000000400000005000000060000000700000008000000
 --- !u!224 &1391990992 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2619746246467768283, guid: 5fbab9ca501a4cb4ab808eebc12382c2, type: 3}

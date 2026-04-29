@@ -109,6 +109,7 @@ MonoBehaviour:
   wrong_position_sound: {fileID: 0}
   smoke_sound: {fileID: 8300000, guid: 901eedc443decdf45aff339b9f6c0b59, type: 3}
   winBowlsSound: {fileID: 8300000, guid: 202b8e94fe317d943a7e80c7eaf47d77, type: 3}
+  exorcismWinSound: {fileID: 8300000, guid: abc62f7432b321e428dd5251e587bc20, type: 3}
   walkSound: {fileID: 8300000, guid: 68fea2cc067245b44852f2b2d831a142, type: 3}
   runSound: {fileID: 8300000, guid: 68fea2cc067245b44852f2b2d831a142, type: 3}
   musicSource: {fileID: 2908479734716129129}

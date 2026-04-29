@@ -30,6 +30,12 @@ EditorBuildSettings:
     path: Assets/Scripts/06level.unity
     guid: 32c17d15dbbebc746aef6038d872c890
   - enabled: 1
+    path: Assets/Scripts/07level.unity
+    guid: 2c4114f72f576a14c93357aefffdeb83
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
+    guid: ad05859d07b964f4da547893e054ee6c
+  - enabled: 1
     path: Assets/Scenes/CodeTest.unity
     guid: d6392a63882b2e7418c15c6a5bb95ed7
   - enabled: 1
