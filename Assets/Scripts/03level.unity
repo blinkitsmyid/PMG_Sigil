@@ -397,12 +397,24 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 1187306769}
+    - target: {fileID: 4531970923755278777, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4531970923755278777, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4655391333765513705, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
       propertyPath: m_SortingLayer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4655391333765513705, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
       propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777465324798498772, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4870908242676628200, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
@@ -582,7 +594,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4840510116040238423, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
@@ -1780,6 +1793,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 781445a270b040cdad9129d211f80876, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3754646951097173614 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5203068761119554738, guid: 33c4ba827e09cd74b844f79f07063815, type: 3}
+  m_PrefabInstance: {fileID: 162167404}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f56a5270fd423681e738a32d1d507f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &4008712134825741459 stripped
@@ -3315,7 +3339,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: traitObjects.Array.size
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: exorcismObjects.Array.size
@@ -3377,6 +3401,10 @@ PrefabInstance:
       propertyPath: 'traitObjects.Array.data[7]'
       value: 
       objectReference: {fileID: 457569837}
+    - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
+      propertyPath: 'traitObjects.Array.data[8]'
+      value: 
+      objectReference: {fileID: 3754646951097173614}
     - target: {fileID: 9176286775079291606, guid: 71517bf925bba3b4296e68ac1925b334, type: 3}
       propertyPath: 'exorcismObjects.Array.data[0]'
       value: 
