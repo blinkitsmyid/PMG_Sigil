@@ -43,6 +43,7 @@ public class SceneLoader : MonoBehaviour
     }
     public void LoadMenu()
     {
+        Time.timeScale = 1f;
         AudioManager.Instance.PlayClick();
         SceneManager.LoadScene("00_Menu");
     }
