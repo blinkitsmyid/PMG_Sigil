@@ -25,7 +25,7 @@ public class WinManager : MonoBehaviour
     private static IEnumerator WinCoroutine()
     {
         Debug.Log("Проигрышная сцена");
-        yield return new WaitForSecondsRealtime(3f);
+        yield return new WaitForSecondsRealtime(4f);
         PanelManager.Instance.Win();
     }
 

@@ -65,7 +65,7 @@ public class GhostBehaviour : MonoBehaviour
         AudioManager.Instance.PlayExorcismWinSound();
         Color startColor = spriteRenderer.color;
         float time = 0f;
-        yield return new WaitForSecondsRealtime(4f);
+        yield return new WaitForSecondsRealtime(0.5f);
         while (time < fadeDuration)
         {
             time += Time.unscaledDeltaTime; // ВАЖНО!
