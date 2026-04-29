@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
     private Camera _mainCamera;
     [SerializeField] private float runMultiplier = 2f;
     [SerializeField] private SpriteRenderer playerSprite;
-    [SerializeField] private UnityEngine.Rendering.Universal.Light2D flashlight;
+    [SerializeField] public UnityEngine.Rendering.Universal.Light2D flashlight;
 
     private bool _isRunningInput = false;
 
