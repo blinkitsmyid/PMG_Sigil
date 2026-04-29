@@ -476,6 +476,10 @@ PrefabInstance:
       propertyPath: playerCollider
       value: 
       objectReference: {fileID: 6599143556914688227}
+    - target: {fileID: 8175937812747881004, guid: 75f38e62d8797bd49b56acfe14375ce0, type: 3}
+      propertyPath: trait
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 8823076553906862416, guid: 75f38e62d8797bd49b56acfe14375ce0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8.61
@@ -523,6 +527,10 @@ PrefabInstance:
     - target: {fileID: 8841404149801256281, guid: 75f38e62d8797bd49b56acfe14375ce0, type: 3}
       propertyPath: m_LocalPosition.y
       value: -11.532001
+      objectReference: {fileID: 0}
+    - target: {fileID: 8933840478858688771, guid: 75f38e62d8797bd49b56acfe14375ce0, type: 3}
+      propertyPath: trait
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 8972824171048626112, guid: 75f38e62d8797bd49b56acfe14375ce0, type: 3}
       propertyPath: playerCollider
