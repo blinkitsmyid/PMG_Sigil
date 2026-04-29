@@ -34,7 +34,7 @@ public class SceneLoader : MonoBehaviour
 
         if (nextScene == -1)
         {
-            SceneManager.LoadScene("00_Menu");
+            SceneManager.LoadScene("CutScene");
             return;
         }
 
