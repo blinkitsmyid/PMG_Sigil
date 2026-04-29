@@ -297,7 +297,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -278, y: -288}
+  m_AnchoredPosition: {x: -278, y: -217}
   m_SizeDelta: {x: 769.64, y: 244.03}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &244302072
@@ -761,7 +761,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -290, y: 65}
+  m_AnchoredPosition: {x: -290, y: 112}
   m_SizeDelta: {x: 1179.2, y: 351.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &775713625
@@ -988,7 +988,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -291, y: 69.00003}
+  m_AnchoredPosition: {x: -291, y: 116.00003}
   m_SizeDelta: {x: 1179.22, y: 351.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1065986622
@@ -1499,6 +1499,10 @@ PrefabInstance:
     - target: {fileID: 4839120562167022550, guid: be370afe1e294ac49a551906dbd0512e, type: 3}
       propertyPath: m_Name
       value: DayNumber_Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4969140404299248420, guid: be370afe1e294ac49a551906dbd0512e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -102.63495
       objectReference: {fileID: 0}
     - target: {fileID: 7828617007687148609, guid: be370afe1e294ac49a551906dbd0512e, type: 3}
       propertyPath: m_Camera

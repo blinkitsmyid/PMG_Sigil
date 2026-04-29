@@ -5668,7 +5668,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &8279335278664000512
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6655,7 +6655,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -170539679
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 3843231544584785974, guid: 8148e0da023212d4780f19fedb1221bf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -8852,8 +8852,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "-\u0421\u043B\u044B\u0448\u0435\u043D \u0442\u0438\u0445\u0438\u0439 \u043E\u0434\u0438\u043D\u043E\u043A\u0438\u0439
-    \u043F\u043B\u0430\u0447\n-\u041E\u0449\u0443\u0449\u0430\u0435\u0442\u0441\u044F
+  m_text: "-\u041D\u0430 \u043F\u043E\u043B\u0443 \u043F\u043E\u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F
+    \u0441\u043B\u0435\u0434\u044B \u0431\u043E\u0442\u0438\u043D\u043E\u043A\n-\u041E\u0449\u0443\u0449\u0430\u0435\u0442\u0441\u044F
     \u043D\u0435\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435
     \u0442\u0435\u043F\u043B\u043E\n-\u0412\u043E\u0437\u043D\u0438\u043A\u0430\u044E\u0442
     \u043F\u0435\u0440\u0435\u0431\u043E\u0438 \u044D\u043B\u0435\u043A\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u0430"

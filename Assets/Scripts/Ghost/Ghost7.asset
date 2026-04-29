@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Ghost7
   m_EditorClassIdentifier: 
   ghostName: GhostBoy
-  traits: 040000000000000006000000
+  traits: 070000000000000006000000
   reactions:
   - type: 0
     reaction: 0
